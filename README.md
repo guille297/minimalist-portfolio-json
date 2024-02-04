@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Astro Starter Kit: Basics
 
 ```sh
@@ -52,3 +53,7 @@ All commands are run from the root of the project, from a terminal:
 ## 👀 Want to learn more?
 
 Feel free to check [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
+=======
+# minimalist-portfolio-json
+Minimalist portfolio configurable via one JSON
+>>>>>>> 699ded033f6c44f2b81ee36f25d78cf7c4abef93
